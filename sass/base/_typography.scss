@@ -18,7 +18,7 @@ body {
         font-weight: 400;
         letter-spacing: 3.5rem;
     
-        animation: moveInLeft 1s ease-in;
+        animation: moveInLeft 1s ease-out;
 
     }
     
@@ -26,8 +26,8 @@ body {
         display: block;
         font-size: 2rem;
         font-weight: 700;
-        letter-spacing: 1.7rem;
-        animation: moveInRight 1s ease-in;
+        letter-spacing: 1.75rem;
+        animation: moveInRight 1s ease-out;
     }
 }
 
